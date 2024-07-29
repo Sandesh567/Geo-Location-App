@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: tomato;
+  margin: 0;
+  padding: 0;
+}
+
+.btn {
+  border-radius: 30px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  border: none;
+  background-color: cornflowerblue;
+  font-size: 1.2rem;
+  cursor: help;
+}
+
+.location {
+  position: absolute;
+  left: 50%;
+  top: 60%;
+  font-size: 1.2rem;
+}
+
+.count {
+  position: absolute;
+  left: 50%;
+  top: 55%;
+  text-align: center;
+  font-size: 1.2rem;
+}
